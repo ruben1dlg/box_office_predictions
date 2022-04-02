@@ -91,7 +91,7 @@ The Python environment required to run every python script can be found [here](h
 
 ## License
 
-The Olympic Medal H-test project is available under the MIT license. See [LICENSE](https://github.com/UBC-MDS/olympic_medal_htest/blob/main/LICENSE) for more information.
+The Olympic Medal H-test project is available under the MIT license. See [LICENSE](https://github.com/UBC-MDS/olympic_medal_htest/blob/main/LICENSE) for more information
 
 # References
 
